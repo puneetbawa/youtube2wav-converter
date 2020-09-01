@@ -5,8 +5,8 @@ The script allows the download for the videos uploaded on YouTube and using ffmp
 
 Check requirements.txt 
 
-	1) install youtube-dl
-	2) install ffmpeg
+	1) pip install youtube_dl
+	2) sudo apt install ffmpeg
 
 The script using ffmpeg also allows the conversion into the required sampling frequency (Note: -ar 16000 to be put after the input file)
 
