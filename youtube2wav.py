@@ -3,6 +3,7 @@
 
 from os import walk
 import os
+import matplotlib.pyplot as plt
 import sys
 try:
         link = sys.argv[1]
